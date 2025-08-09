@@ -27,7 +27,9 @@ It tracks the **top 60 wallets** of any SPL token, receives live transaction upd
    Use `streamlit_dashboard.ipynb` to launch the dashboard and explore token activity.
 
 ## Screenshots
-<p align="center">
-  <img src="Images/Landing_page.png" alt="Landing Page" width="75%"/>
-  <img src="Images/Dasbhoard_.png" alt="Dashboard" width="45%"/>
-</p>
+### Landing Page
+![Landing Page](assets/Landing_page.png)
+
+### Dashboard
+![Dashboard](assets/Dasbhoard_.png)
+
