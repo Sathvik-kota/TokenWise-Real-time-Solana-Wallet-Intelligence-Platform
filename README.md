@@ -33,7 +33,7 @@ It tracks the **top 60 wallets** of any SPL token, receives live transaction upd
 
 ### Dashboard
 ![Dashboard](Images/Dasbhoard_.png)
-*Interactive dashboard showing live Solana wallet insights,AI anomaly detection,Whale alerts,Filters,Transaction data,transaction visualisation graph*
+*Interactive dashboard showing live Solana wallet insights,AI anomaly detection,Whale alerts,Filters,Raw data,Transaction over time graph*
 
 ### Summary_tab
 ![Summary_tab](Images/Summary_tab.png)
