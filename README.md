@@ -1,4 +1,4 @@
-# TokenWise-Real-time-Solana-Wallet-Intelligence-Platform
+# TokenWise : Real-time-Solana-Wallet-Intelligence-Platform
 TokenWise is a **real-time wallet intelligence dashboard** for Solana tokens.  
 It tracks the **top 60 wallets** of any SPL token, receives live transaction updates via Helius webhooks, stores the data locally, and visualizes it in a **Streamlit dashboard** with animations and AI-powered anomaly detection.
 
