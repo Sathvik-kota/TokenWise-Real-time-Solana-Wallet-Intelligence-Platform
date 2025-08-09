@@ -1,0 +1,15 @@
+flask
+flask-ngrok
+pyngrok
+requests
+psycopg2-binary
+streamlit
+streamlit-lottie
+plotly
+scikit-learn
+joblib
+fastapi
+uvicorn
+nest-asyncio
+python-dotenv
+pandas
