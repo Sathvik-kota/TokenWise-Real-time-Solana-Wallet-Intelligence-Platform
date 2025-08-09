@@ -15,13 +15,13 @@ It tracks the **top 60 wallets** of any SPL token, receives live transaction upd
    Use `Fetching_60+WebhookReg` to call Helius RPC and save the top 60 holders to `data/top_wallets.txt`.
 
 2. **Ngrok Setup**  
-   Use `2_ngrok_auth_and_url.ipynb` to authenticate Ngrok and get a public webhook URL.
+   Use `ngrok_auth_and_url.ipynb` to authenticate Ngrok and get a public webhook URL.
 
 3. **Register Webhook**  
    Use `Fetching_60+WebhookReg` to register the public URL and top wallet list with Helius.
 
 4. **Run Flask Server**  
-   Use `4_flask_webhook_server.ipynb` to receive and process transactions in real time.
+   Use `flask_webhook_server.ipynb` to receive and process transactions in real time.
 
 5. **View Dashboard**  
    Use `streamlit_dashboard.ipynb` to launch the dashboard and explore token activity.
