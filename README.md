@@ -28,6 +28,6 @@ It tracks the **top 60 wallets** of any SPL token, receives live transaction upd
 
 ## Screenshots
 <p align="center">
-  <img src="Images/landing_page.png" alt="Landing Page" width="45%"/>
-  <img src="Images/dashboard.png" alt="Dashboard" width="45%"/>
+  <img src="Images/Landing_page.png" alt="Landing Page" width="45%"/>
+  <img src="Images/Dasbhoard_.png" alt="Dashboard" width="45%"/>
 </p>
