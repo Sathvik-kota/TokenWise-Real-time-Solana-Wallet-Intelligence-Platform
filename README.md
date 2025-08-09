@@ -20,8 +20,14 @@ It tracks the **top 60 wallets** of any SPL token, receives live transaction upd
 3. **Register Webhook**  
    Use `Fetching_60+WebhookReg` to register the public URL and top wallet list with Helius.
 
-4. **Run Flask Server**  
+5. **Run Flask Server**  
    Use `flask_webhook_server.ipynb` to receive and process transactions in real time.
 
-5. **View Dashboard**  
+6. **View Dashboard**  
    Use `streamlit_dashboard.ipynb` to launch the dashboard and explore token activity.
+
+## Screenshots
+<p align="center">
+  <img src="Images/landing_page.png" alt="Landing Page" width="45%"/>
+  <img src="Images/dashboard.png" alt="Dashboard" width="45%"/>
+</p>
